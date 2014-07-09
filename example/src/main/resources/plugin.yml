@@ -1,0 +1,6 @@
+name: ServerCasterExample
+author: [Patrick-Beuks]
+description: examples of how to use the ServerCaster API
+version: 1.9-SNAPSHOT
+main: me.patrick.servercaster.example.Example
+depend: [ServerCaster]

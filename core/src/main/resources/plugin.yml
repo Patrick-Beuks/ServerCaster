@@ -1,0 +1,10 @@
+name: ServerCaster
+author: [Patrick-Beuks]
+description: A broadcaster that can send clickable links and commands in chat as well as other chat effects
+version: 1.9-SNAPSHOT
+main: me.patrick.servercaster.core.ServerCaster
+commands:
+   reloadservercaster:
+      description: Reloads the ServerCaster config file.
+      usage: §cThe correct format is /reloadservercaster
+      permission: servercaster.reload
